@@ -30,3 +30,12 @@ D:\Curso-CSsharp\Sessao4\Algoritmos\WebAPI-TaskManagement\WebAPI-TaskManagement\
 D:\Curso-CSsharp\Sessao4\Algoritmos\WebAPI-TaskManagement\WebAPI-TaskManagement\obj\Debug\net8.0\WebAPI-TaskManagement.pdb
 D:\Curso-CSsharp\Sessao4\Algoritmos\WebAPI-TaskManagement\WebAPI-TaskManagement\obj\Debug\net8.0\WebAPI-TaskManagement.genruntimeconfig.cache
 D:\Curso-CSsharp\Sessao4\Algoritmos\WebAPI-TaskManagement\WebAPI-TaskManagement\obj\Debug\net8.0\ref\WebAPI-TaskManagement.dll
+D:\Curso-CSsharp\Sessao4\Algoritmos\WebAPI-TaskManagement\WebAPI-TaskManagement\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Curso-CSsharp\Sessao4\Algoritmos\WebAPI-TaskManagement\WebAPI-TaskManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Curso-CSsharp\Sessao4\Algoritmos\WebAPI-TaskManagement\WebAPI-TaskManagement\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Curso-CSsharp\Sessao4\Algoritmos\WebAPI-TaskManagement\WebAPI-TaskManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Curso-CSsharp\Sessao4\Algoritmos\WebAPI-TaskManagement\WebAPI-TaskManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Curso-CSsharp\Sessao4\Algoritmos\WebAPI-TaskManagement\WebAPI-TaskManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Curso-CSsharp\Sessao4\Algoritmos\WebAPI-TaskManagement\WebAPI-TaskManagement\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Curso-CSsharp\Sessao4\Algoritmos\WebAPI-TaskManagement\WebAPI-TaskManagement\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Curso-CSsharp\Sessao4\Algoritmos\WebAPI-TaskManagement\WebAPI-TaskManagement\obj\Debug\net8.0\WebAPI-TaskManagement.sourcelink.json
